@@ -1,0 +1,4 @@
+Este documento deberia agregar toda la funcionalidad de Altas
+No deberia haber ningun problema
+
+(Agreagdo por Requerimiento) Hola mundo desde Altas
